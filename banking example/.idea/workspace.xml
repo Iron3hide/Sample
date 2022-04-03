@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b0fee23-6514-4e7d-8bc2-25e16d6c85f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day 5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/out/production/Day 5/loop1/for_test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/out/production/Day 5/loop1/for_testRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/out/production/Day 5/loop2/while_test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/out/production/Day 5/loop2/while_testRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/out/production/Day 5/loop3/doWhileRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/src/loop1/for_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/src/loop1/for_testRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/src/loop2/while_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/src/loop2/while_testRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 5/src/loop3/doWhileRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/FixedDepositExample/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/FixedDepositExample/baseRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/Day4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/Conditionals/menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/Conditionals/menuRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/SimpleInterest/simple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/SimpleInterest/simpleRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/SwitchExercise/switchExerciseRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/mathoperations/calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/mathoperations/calculateRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/myChar/myChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/out/production/Day4/myChar/myCharRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/Conditionals/menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/Conditionals/menuRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/SimpleInterest/simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/SimpleInterest/simpleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/SwitchExercise/switchExerciseRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/mathoperations/calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/mathoperations/calculateRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/myChar/myChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/src/myChar/myCharRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/src/array1/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/src/array1/arrayRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/src/arrayBasic/studentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/src/arrayDay/dayArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/src/arrayDay/dayArrayRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/src/arrayList2/student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/src/arrayList2/student1Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Book/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Book/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Book/bookRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Inheritance/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Inheritance/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Inheritance/student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Inheritance/student1Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Rectangle/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day7/src/Rectangle/rectangleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/Interface/ChessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/Interface/GamingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/Interface/MarioGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/Interface/MarioGameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/abstract_class/animalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/functional/Functional2Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/functional/FunctionalProgrammeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8/src/interface2/flyableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9/src/generics/GenericsRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9/src/generics/MyCustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MasterJava" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banking_example/new_bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/banking_example/new_bankRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/src/motor/motorbikeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3/src/motor/motorbikeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatraining" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/libraries/groovy_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-ant-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-ant-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-astbuilder-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-astbuilder-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-cli-commons-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-cli-commons-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-cli-picocli-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-cli-picocli-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-console-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-console-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-contracts-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-contracts-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-datetime-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-datetime-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-dateutil-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-dateutil-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-docgenerator-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-docgenerator-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-ginq-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-ginq-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-groovydoc-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-groovydoc-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-groovysh-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-groovysh-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-jmx-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-jmx-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-json-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-json-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-jsr223-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-jsr223-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-macro-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-macro-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-macro-library-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-macro-library-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-nio-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-nio-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-servlet-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-servlet-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-sql-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-sql-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-swing-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-swing-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-templates-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-templates-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-test-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-test-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-test-junit5-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-test-junit5-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-testng-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-testng-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-toml-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-toml-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-typecheckers-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-typecheckers-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-xml-4.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/lib/groovy-xml-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/prac.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 5/Day5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj 1/src/basic_exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj 1/src/calctime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj 1/src/conditional_basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj 1/src/for_loop_basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj 1/src/mathtable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj 1/src/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/src/method_arg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/src/method_calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/src/method_multiple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/src/method_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/src/method_planet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/src/method_sum.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27Hc2dNbLQhXvfNLed1yNAZ26O6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="new_bankRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banking_example.new_bankRunner" />
+      <module name="banking example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banking_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.new_bankRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b0fee23-6514-4e7d-8bc2-25e16d6c85f9" name="Changes" comment="" />
+      <created>1648980245531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648980245531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
